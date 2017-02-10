@@ -1,5 +1,5 @@
 {
-  "name": "valid-email",
+  "name": "@socialtables/valid-email",
   "version": "0.0.2",
   "description": "Test the validity of an email address",
   "keywords": ["valid","email","test","validity","check"],
@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnhenry/valid-email.git"
+    "url": "git://github.com/socialtables/valid-email.git"
   },
   "main": "index",
-  "engines": { "node": "^0.8.x" }
+  "engines": { "node": ">=0.8.0" }
 }
